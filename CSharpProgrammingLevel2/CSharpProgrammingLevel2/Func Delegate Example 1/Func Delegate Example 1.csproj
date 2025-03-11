@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{419024A3-E8D1-490F-9150-4759C7D5F753}</ProjectGuid>
+    <ProjectGuid>{71C1BB91-3A23-40B9-9B6B-BCD824A0165F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Logger_Example</RootNamespace>
-    <AssemblyName>Logger Example</AssemblyName>
+    <RootNamespace>Func_Delegate_Example_1</RootNamespace>
+    <AssemblyName>Func Delegate Example 1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Normal Delegate Example 1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
