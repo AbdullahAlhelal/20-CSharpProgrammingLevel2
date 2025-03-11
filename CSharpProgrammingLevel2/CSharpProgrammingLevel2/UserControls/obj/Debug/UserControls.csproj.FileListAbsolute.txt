@@ -9,3 +9,14 @@ D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.exe
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.pdb
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.Form1.resources
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\bin\Debug\UserControls.exe.config
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\bin\Debug\UserControls.exe
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\bin\Debug\UserControls.pdb
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.ctrlSimpleCalc.resources
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.Form1.resources
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.exe
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.pdb

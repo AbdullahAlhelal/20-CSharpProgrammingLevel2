@@ -1,0 +1,7 @@
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\News Publisher Subscriber Example\bin\Debug\News Publisher Subscriber Example.exe.config
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\News Publisher Subscriber Example\bin\Debug\News Publisher Subscriber Example.exe
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\News Publisher Subscriber Example\bin\Debug\News Publisher Subscriber Example.pdb
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.exe
+C:\Users\Abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.pdb

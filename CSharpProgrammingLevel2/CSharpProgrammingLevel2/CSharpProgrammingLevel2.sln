@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature Change Event Example", "Temperature Change Event Example\Temperature Change Event Example.csproj", "{33B2B0DB-7C00-4615-8008-43F68A63F959}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News Publisher Subscriber Example", "News Publisher Subscriber Example\News Publisher Subscriber Example.csproj", "{F51F87C8-5CE3-451E-AF6C-DA6641BF0503}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{33B2B0DB-7C00-4615-8008-43F68A63F959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33B2B0DB-7C00-4615-8008-43F68A63F959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33B2B0DB-7C00-4615-8008-43F68A63F959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51F87C8-5CE3-451E-AF6C-DA6641BF0503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51F87C8-5CE3-451E-AF6C-DA6641BF0503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51F87C8-5CE3-451E-AF6C-DA6641BF0503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51F87C8-5CE3-451E-AF6C-DA6641BF0503}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
