@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News Publisher Subscriber E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Order Event Example", "New Order Event Example\New Order Event Example.csproj", "{9A5ADE6B-3463-407E-BEFF-F831F33EE903}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger Example", "Logger Example\Logger Example.csproj", "{419024A3-E8D1-490F-9150-4759C7D5F753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9A5ADE6B-3463-407E-BEFF-F831F33EE903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A5ADE6B-3463-407E-BEFF-F831F33EE903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A5ADE6B-3463-407E-BEFF-F831F33EE903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419024A3-E8D1-490F-9150-4759C7D5F753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419024A3-E8D1-490F-9150-4759C7D5F753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419024A3-E8D1-490F-9150-4759C7D5F753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419024A3-E8D1-490F-9150-4759C7D5F753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

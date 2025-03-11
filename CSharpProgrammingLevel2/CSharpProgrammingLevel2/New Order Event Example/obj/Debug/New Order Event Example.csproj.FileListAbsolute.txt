@@ -1,0 +1,7 @@
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\New Order Event Example\bin\Debug\New Order Event Example.exe.config
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\New Order Event Example\bin\Debug\New Order Event Example.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\New Order Event Example\bin\Debug\New Order Event Example.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\New Order Event Example\obj\Debug\New Order Event Example.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\New Order Event Example\obj\Debug\New Order Event Example.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\New Order Event Example\obj\Debug\New Order Event Example.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\New Order Event Example\obj\Debug\New Order Event Example.pdb
