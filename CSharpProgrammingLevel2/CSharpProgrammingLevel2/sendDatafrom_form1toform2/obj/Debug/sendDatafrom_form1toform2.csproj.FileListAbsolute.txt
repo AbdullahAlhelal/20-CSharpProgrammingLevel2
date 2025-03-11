@@ -1,0 +1,11 @@
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\bin\Debug\sendDatafrom_form1toform2.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\bin\Debug\sendDatafrom_form1toform2.exe
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\bin\Debug\sendDatafrom_form1toform2.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.Form1.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.Form2.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.Properties.Resources.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.csproj.GenerateResource.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.exe
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\sendDatafrom_form1toform2\obj\Debug\sendDatafrom_form1toform2.pdb

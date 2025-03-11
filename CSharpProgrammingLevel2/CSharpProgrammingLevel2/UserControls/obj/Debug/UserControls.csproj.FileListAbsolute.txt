@@ -1,0 +1,11 @@
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\bin\Debug\UserControls.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\bin\Debug\UserControls.exe
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\bin\Debug\UserControls.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.ctrlSimpleCalc.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.exe
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\UserControls\obj\Debug\UserControls.Form1.resources

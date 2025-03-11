@@ -1,0 +1,12 @@
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\bin\Debug\Events.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\bin\Debug\Events.exe
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\bin\Debug\Events.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.ctrlPersonInfo.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.Properties.Resources.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.csproj.GenerateResource.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.exe
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.Form1.resources
+D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.frmSimple_Event_With_ParametersUsingArguments.resources
