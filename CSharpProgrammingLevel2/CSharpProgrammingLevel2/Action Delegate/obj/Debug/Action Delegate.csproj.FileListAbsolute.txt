@@ -1,0 +1,7 @@
+C:\Users\abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Action Delegate\bin\Debug\Action Delegate.exe.config
+C:\Users\abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Action Delegate\bin\Debug\Action Delegate.exe
+C:\Users\abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Action Delegate\bin\Debug\Action Delegate.pdb
+C:\Users\abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Action Delegate\obj\Debug\Action Delegate.csproj.AssemblyReference.cache
+C:\Users\abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Action Delegate\obj\Debug\Action Delegate.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Action Delegate\obj\Debug\Action Delegate.exe
+C:\Users\abdullah\Source\Repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Action Delegate\obj\Debug\Action Delegate.pdb

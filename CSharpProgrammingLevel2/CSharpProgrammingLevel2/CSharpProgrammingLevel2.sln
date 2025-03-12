@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger Example", "Logger Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func Delegate Example 1", "Func Delegate Example 1\Func Delegate Example 1.csproj", "{71C1BB91-3A23-40B9-9B6B-BCD824A0165F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action Delegate", "Action Delegate\Action Delegate.csproj", "{ABB6F48A-7F15-4BBC-BDAE-264BBDCECD24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{71C1BB91-3A23-40B9-9B6B-BCD824A0165F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C1BB91-3A23-40B9-9B6B-BCD824A0165F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C1BB91-3A23-40B9-9B6B-BCD824A0165F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB6F48A-7F15-4BBC-BDAE-264BBDCECD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB6F48A-7F15-4BBC-BDAE-264BBDCECD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB6F48A-7F15-4BBC-BDAE-264BBDCECD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB6F48A-7F15-4BBC-BDAE-264BBDCECD24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
