@@ -8,6 +8,44 @@ namespace Nullable_Data_Types
 {
     internal class Program
     {
+        #region Example2
+
+        static void Procedure1(string Name , Nullable<int> Age)
+        {
+
+            Console.WriteLine("\nName is :" + Name);
+
+            if ( Age.HasValue )
+            {
+                Console.WriteLine("Age is :" + Age.ToString());
+            }
+            else
+            {
+                Console.WriteLine("Age is Null");
+            }
+
+
+        }
+
+        static void Procedure2(string Name , int? Age)
+        {
+
+            Console.WriteLine("\nName is :" + Name);
+
+            if ( Age.HasValue )
+            {
+                Console.WriteLine("Age is :" + Age.ToString());
+            }
+            else
+            {
+                Console.WriteLine("Age is Null");
+            }
+
+
+        }
+
+        #endregion
+
         static void Main(string[] args)
         {
 
@@ -48,6 +86,17 @@ namespace Nullable_Data_Types
             // Using the null-conditional operator
             string stringValue = nullableInt2?.ToString();
             Console.WriteLine("String representation: " + (stringValue ?? "null"));
+
+
+
+            Procedure1("Mohammed Abu-Hadhoud" , null);
+            Procedure1("Ali Ahmed" , 35);
+
+
+            Procedure2("Mohammed Abu-Hadhoud" , null);
+            Procedure2("Ali Ahmed" , 35);
+
+
             Console.ReadKey();
         }
     }
