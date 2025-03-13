@@ -1,0 +1,7 @@
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\XML Serialization Example\bin\Debug\XML Serialization Example.exe.config
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\XML Serialization Example\bin\Debug\XML Serialization Example.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\XML Serialization Example\bin\Debug\XML Serialization Example.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\XML Serialization Example\obj\Debug\XML Serialization Example.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\XML Serialization Example\obj\Debug\XML Serialization Example.pdb

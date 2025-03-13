@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStatementWithDatabaseC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable Data Types", "Nullable Data Types\Nullable Data Types.csproj", "{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML Serialization Example", "XML Serialization Example\XML Serialization Example.csproj", "{4287E56B-731C-45B6-9E11-9A8B3BC91797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json Serialization Example", "Json Serialization Example\Json Serialization Example.csproj", "{1560DD91-1A19-4AEC-A9CA-866C68F87891}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4287E56B-731C-45B6-9E11-9A8B3BC91797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4287E56B-731C-45B6-9E11-9A8B3BC91797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4287E56B-731C-45B6-9E11-9A8B3BC91797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4287E56B-731C-45B6-9E11-9A8B3BC91797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1560DD91-1A19-4AEC-A9CA-866C68F87891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1560DD91-1A19-4AEC-A9CA-866C68F87891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1560DD91-1A19-4AEC-A9CA-866C68F87891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1560DD91-1A19-4AEC-A9CA-866C68F87891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
