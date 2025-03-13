@@ -40,10 +40,6 @@ namespace Lambda_Expression_Example
         }
 
 
-
-       
-
-
         static void Main()
         {
             // Use the square Func to square the number 5
