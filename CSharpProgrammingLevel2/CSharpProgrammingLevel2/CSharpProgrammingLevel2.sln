@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda Expression Example",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStatementWithDatabaseConnection", "UsingStatementWithDatabaseConnection\UsingStatementWithDatabaseConnection.csproj", "{8099CCC4-19AE-48D8-9766-D4F8632FF470}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable Data Types", "Nullable Data Types\Nullable Data Types.csproj", "{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8099CCC4-19AE-48D8-9766-D4F8632FF470}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8099CCC4-19AE-48D8-9766-D4F8632FF470}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8099CCC4-19AE-48D8-9766-D4F8632FF470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B30ECA-835F-41C2-AE53-1F9AEA2813BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
