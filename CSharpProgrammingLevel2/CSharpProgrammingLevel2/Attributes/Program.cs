@@ -13,7 +13,7 @@ namespace Attributes
     {
 
         [Obsolete("This method is deprecated. Use NewMethod instead.")]
-        public void DeprecatedMethod()
+        public static void DeprecatedMethod()
         {
             // Deprecated method implementation
         }
@@ -26,6 +26,7 @@ namespace Attributes
         }
         static void Main(string[] args)
         {
+            DeprecatedMethod();
         }
     }
 }

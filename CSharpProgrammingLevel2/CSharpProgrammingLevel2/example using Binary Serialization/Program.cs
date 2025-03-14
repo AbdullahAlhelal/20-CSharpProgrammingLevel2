@@ -3,6 +3,19 @@ using System.IO;
 using System.Linq;
 using System.Runtime.Serialization.Formatters.Binary;
 
+
+[AttributeUsage(AttributeTargets.Class | AttributeTargets.Method , AllowMultiple = true)]
+public class MyCustomAttribute : Attribute
+{
+    public string Description { get; }
+
+
+    public MyCustomAttribute(string description)
+    {
+        Description = description;
+    }
+}
+
 namespace example_using_Binary_Serialization
 {
 

@@ -10,3 +10,15 @@ D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.pdb
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.Form1.resources
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.frmSimple_Event_With_ParametersUsingArguments.resources
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\bin\Debug\Events.exe.config
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\bin\Debug\Events.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\bin\Debug\Events.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.ctrlPersonInfo.resources
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.Form1.resources
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.frmSimple_Event_With_ParametersUsingArguments.resources
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Events\obj\Debug\Events.pdb

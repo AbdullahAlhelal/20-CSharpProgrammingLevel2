@@ -5,3 +5,10 @@ D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Chan
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.csproj.CoreCompileInputs.cache
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.exe
 D:\Trraining c#\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.exe.config
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.pdb
