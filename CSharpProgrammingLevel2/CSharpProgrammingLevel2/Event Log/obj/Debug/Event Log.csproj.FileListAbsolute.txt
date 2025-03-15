@@ -1,0 +1,7 @@
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Event Log\obj\Debug\Event Log.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Event Log\obj\Debug\Event Log.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Event Log\bin\Debug\Event Log.exe.config
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Event Log\bin\Debug\Event Log.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Event Log\bin\Debug\Event Log.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Event Log\obj\Debug\Event Log.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Event Log\obj\Debug\Event Log.pdb
