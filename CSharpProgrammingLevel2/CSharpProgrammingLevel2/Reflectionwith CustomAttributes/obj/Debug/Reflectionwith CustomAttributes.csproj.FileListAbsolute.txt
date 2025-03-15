@@ -1,0 +1,7 @@
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Reflectionwith CustomAttributes\bin\Debug\Reflectionwith CustomAttributes.exe.config
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Reflectionwith CustomAttributes\bin\Debug\Reflectionwith CustomAttributes.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Reflectionwith CustomAttributes\bin\Debug\Reflectionwith CustomAttributes.pdb
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Reflectionwith CustomAttributes\obj\Debug\Reflectionwith CustomAttributes.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Reflectionwith CustomAttributes\obj\Debug\Reflectionwith CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Reflectionwith CustomAttributes\obj\Debug\Reflectionwith CustomAttributes.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Reflectionwith CustomAttributes\obj\Debug\Reflectionwith CustomAttributes.pdb
