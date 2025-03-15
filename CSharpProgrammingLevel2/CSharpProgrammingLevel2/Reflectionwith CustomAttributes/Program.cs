@@ -53,6 +53,38 @@ namespace Reflectionwith_CustomAttributes
             {
                 Console.WriteLine($"Method Attribute: {attribute.Description}");
             }
+
+
+            clsPerson clsPerson = new clsPerson();
+
+            clsPerson.Name = "ahmad";
+            clsPerson.Age = 15;
+
+            ValidatePerson(clsPerson);
+        }
+
+        static bool ValidatePerson(clsPerson person)
+        {
+            Type type = typeof(clsPerson);
+
+            foreach (var property in type.GetProperties())
+            {
+                // Check for RangeAttribute on properties
+                if (Attribute.IsDefined(property, typeof(RangeAttribute)))
+                {
+                    var rangeAttribute = (RangeAttribute)Attribute.GetCustomAttribute(property, typeof(RangeAttribute));
+                    int value = (int)property.GetValue(person);
+
+                    // Perform validation
+                    if (value < rangeAttribute.Min || value > rangeAttribute.Max)
+                    {
+                        Console.WriteLine($"Validation {property.GetValue(person)} failed for property '{property.Name}': {rangeAttribute.ErrorMessage}");
+                        return false;
+                    }
+                }
+            }
+
+            return true;
         }
     }
 }
