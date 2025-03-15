@@ -55,10 +55,7 @@ namespace Reflectionwith_CustomAttributes
             }
 
 
-            clsPerson clsPerson = new clsPerson();
-
-            clsPerson.Name = "ahmad";
-            clsPerson.Age = 15;
+            clsPerson clsPerson = new clsPerson("ahmad",18,  15 );
 
             ValidatePerson(clsPerson);
         }
