@@ -1,0 +1,7 @@
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Special Comments In C#\bin\Debug\Special Comments In C#.exe.config
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Special Comments In C#\bin\Debug\Special Comments In C#.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Special Comments In C#\bin\Debug\Special Comments In C#.pdb
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Special Comments In C#\obj\Debug\Special Comments In C#.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Special Comments In C#\obj\Debug\Special Comments In C#.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Special Comments In C#\obj\Debug\Special Comments In C#.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Special Comments In C#\obj\Debug\Special Comments In C#.pdb
