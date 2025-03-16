@@ -12,6 +12,12 @@ namespace Process_vs_Thread
             Thread t = new Thread(ThreadMethod1);
             t.Start();
 
+            Thread t2 = new Thread(ThreadMethod2);
+            t2.Start();
+            // to Wait  t1 and t2 then run main use join
+            t.Join();
+            t2.Join();
+
 
             // Main thread continues its execution
             for ( int i = 1 ; i <= 10 ; i++ )
@@ -24,6 +30,14 @@ namespace Process_vs_Thread
 
 
         static void ThreadMethod1()
+        {
+            for ( int i = 1 ; i <= 5 ; i++ )
+            {
+                Console.WriteLine("Thread Method1: " + i);
+                Thread.Sleep(1000);
+            }
+        } 
+        static void ThreadMethod2()
         {
             for ( int i = 1 ; i <= 5 ; i++ )
             {
