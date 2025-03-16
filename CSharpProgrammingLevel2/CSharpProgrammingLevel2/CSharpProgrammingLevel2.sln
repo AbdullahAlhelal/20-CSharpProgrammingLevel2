@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event Log", "Event Log\Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.config Examlpe", "App.config Examlpe\App.config Examlpe.csproj", "{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Builder Example", "String Builder Example\String Builder Example.csproj", "{F24BD88A-07E1-48BE-8AEB-3C96986CF276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24BD88A-07E1-48BE-8AEB-3C96986CF276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24BD88A-07E1-48BE-8AEB-3C96986CF276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24BD88A-07E1-48BE-8AEB-3C96986CF276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24BD88A-07E1-48BE-8AEB-3C96986CF276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
