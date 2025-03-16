@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Cryptography
 {
+
+    //Symmetric Encryption 
+
     internal class Program
     {
         //Hashing Example
