@@ -221,9 +221,9 @@ namespace Cryptography
         public static void EncryptandDecryptImage()
         {
 
-            string inputFile = "c:\\Image\\MyImage.jpg";
-            string encryptedFile = "c:\\Image\\encrypted.jpg";
-            string decryptedFile = "c:\\Image\\decrypted.jpg";
+            string inputFile = "C:\\Users\\Abdullah\\Pictures\\download.png";
+            string encryptedFile = "c:\\Users\\Abdullah\\Pictures\\download.jpg";
+            string decryptedFile = "c:\\Users\\Abdullah\\Pictures\\download1.jpg";
 
 
             // Generate a random IV for each encryption operation
@@ -309,6 +309,9 @@ namespace Cryptography
             // Pause to keep the console window open for viewing the results
             Console.ReadKey();
             ASymmetricEncryption();
+            Console.ReadKey();
+
+            EncryptandDecryptImage();
             Console.ReadKey();
         }
     }
