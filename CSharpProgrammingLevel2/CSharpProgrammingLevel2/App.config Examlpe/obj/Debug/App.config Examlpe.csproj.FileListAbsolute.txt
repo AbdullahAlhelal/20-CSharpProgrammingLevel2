@@ -1,0 +1,7 @@
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\App.config Examlpe\bin\Debug\App.config Examlpe.exe.config
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\App.config Examlpe\bin\Debug\App.config Examlpe.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\App.config Examlpe\bin\Debug\App.config Examlpe.pdb
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\App.config Examlpe\obj\Debug\App.config Examlpe.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\App.config Examlpe\obj\Debug\App.config Examlpe.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\App.config Examlpe\obj\Debug\App.config Examlpe.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\App.config Examlpe\obj\Debug\App.config Examlpe.pdb

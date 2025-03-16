@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registry in C#", "Registry 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event Log", "Event Log\Event Log.csproj", "{C9D195DD-A041-4D7C-94A1-20E50BB0F5D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.config Examlpe", "App.config Examlpe\App.config Examlpe.csproj", "{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{C9D195DD-A041-4D7C-94A1-20E50BB0F5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9D195DD-A041-4D7C-94A1-20E50BB0F5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9D195DD-A041-4D7C-94A1-20E50BB0F5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD29F10-25B6-4BBC-AD31-623F5A52C82E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
