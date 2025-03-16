@@ -1,0 +1,7 @@
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\String Builder Example\bin\Debug\String Builder Example.exe.config
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\String Builder Example\bin\Debug\String Builder Example.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\String Builder Example\bin\Debug\String Builder Example.pdb
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\String Builder Example\obj\Debug\String Builder Example.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\String Builder Example\obj\Debug\String Builder Example.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\String Builder Example\obj\Debug\String Builder Example.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\String Builder Example\obj\Debug\String Builder Example.pdb
