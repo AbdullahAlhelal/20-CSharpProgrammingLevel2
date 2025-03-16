@@ -1,0 +1,7 @@
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Process vs Thread\bin\Debug\Process vs Thread.exe.config
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Process vs Thread\bin\Debug\Process vs Thread.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Process vs Thread\bin\Debug\Process vs Thread.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Process vs Thread\obj\Debug\Process vs Thread.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Process vs Thread\obj\Debug\Process vs Thread.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Process vs Thread\obj\Debug\Process vs Thread.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Process vs Thread\obj\Debug\Process vs Thread.pdb
