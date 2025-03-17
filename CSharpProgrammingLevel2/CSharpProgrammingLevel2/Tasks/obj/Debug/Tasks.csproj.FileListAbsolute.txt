@@ -1,0 +1,7 @@
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Tasks\bin\Debug\Tasks.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Tasks\obj\Debug\Tasks.exe
+C:\Users\Abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\Tasks\obj\Debug\Tasks.pdb

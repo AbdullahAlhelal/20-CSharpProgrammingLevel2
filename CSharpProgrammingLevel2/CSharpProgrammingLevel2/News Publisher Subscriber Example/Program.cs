@@ -91,6 +91,7 @@ public class Program
         publisher.PublishNews("Final Edition" , "Last news update for today.");
 
         Console.ReadLine();
+        
 
     }
 }

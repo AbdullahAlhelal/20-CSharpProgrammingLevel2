@@ -55,13 +55,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.config Examlpe", "App.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Builder Example", "String Builder Example\String Builder Example.csproj", "{F24BD88A-07E1-48BE-8AEB-3C96986CF276}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography", "Cryptography\Cryptography.csproj", "{AB0074CE-2A16-4D00-A505-690E4A5E89FF}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator Overloading", "Operator Overloading\Operator Overloading.csproj", "{EB765BCF-1E78-453F-B11B-768B0A19B33A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Process vs Thread", "Process vs Thread\Process vs Thread.csproj", "{00653B20-1CCB-4458-B2E8-54BE7B78AA7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography", "Cryptography\Cryptography.csproj", "{AB0074CE-2A16-4D00-A505-690E4A5E89FF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProcdure", "StoredProcdure\StoredProcdure.csproj", "{574A117B-ECFA-49DD-8A58-B379077FD505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "Tasks\Tasks.csproj", "{9AEDDF64-9A5E-45B7-B6F8-C75DEB591E2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -173,6 +175,10 @@ Global
 		{F24BD88A-07E1-48BE-8AEB-3C96986CF276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24BD88A-07E1-48BE-8AEB-3C96986CF276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24BD88A-07E1-48BE-8AEB-3C96986CF276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EB765BCF-1E78-453F-B11B-768B0A19B33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EB765BCF-1E78-453F-B11B-768B0A19B33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB765BCF-1E78-453F-B11B-768B0A19B33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -181,14 +187,14 @@ Global
 		{00653B20-1CCB-4458-B2E8-54BE7B78AA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00653B20-1CCB-4458-B2E8-54BE7B78AA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00653B20-1CCB-4458-B2E8-54BE7B78AA7F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB0074CE-2A16-4D00-A505-690E4A5E89FF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{574A117B-ECFA-49DD-8A58-B379077FD505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{574A117B-ECFA-49DD-8A58-B379077FD505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{574A117B-ECFA-49DD-8A58-B379077FD505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{574A117B-ECFA-49DD-8A58-B379077FD505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AEDDF64-9A5E-45B7-B6F8-C75DEB591E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEDDF64-9A5E-45B7-B6F8-C75DEB591E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEDDF64-9A5E-45B7-B6F8-C75DEB591E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEDDF64-9A5E-45B7-B6F8-C75DEB591E2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
