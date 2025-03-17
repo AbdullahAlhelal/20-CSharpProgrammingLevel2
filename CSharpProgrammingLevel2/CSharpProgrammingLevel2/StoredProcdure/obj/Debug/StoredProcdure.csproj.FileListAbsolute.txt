@@ -1,0 +1,7 @@
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\StoredProcdure\bin\Debug\StoredProcdure.exe.config
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\StoredProcdure\bin\Debug\StoredProcdure.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\StoredProcdure\bin\Debug\StoredProcdure.pdb
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\StoredProcdure\obj\Debug\StoredProcdure.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\StoredProcdure\obj\Debug\StoredProcdure.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\StoredProcdure\obj\Debug\StoredProcdure.exe
+C:\Users\abdullah\source\repos\20-CSharpProgrammingLevel2\CSharpProgrammingLevel2\CSharpProgrammingLevel2\StoredProcdure\obj\Debug\StoredProcdure.pdb
