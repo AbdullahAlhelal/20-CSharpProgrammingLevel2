@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "Tasks\Tasks.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Factory Class", "Task Factory Class\Task Factory Class.csproj", "{46764A2E-9076-4CE9-9E9E-4652B16EB789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel Class", "Parallel Class\Parallel Class.csproj", "{8A2BE5FB-6F5F-495E-B044-E8651B507BB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{46764A2E-9076-4CE9-9E9E-4652B16EB789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46764A2E-9076-4CE9-9E9E-4652B16EB789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46764A2E-9076-4CE9-9E9E-4652B16EB789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2BE5FB-6F5F-495E-B044-E8651B507BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2BE5FB-6F5F-495E-B044-E8651B507BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2BE5FB-6F5F-495E-B044-E8651B507BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2BE5FB-6F5F-495E-B044-E8651B507BB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
