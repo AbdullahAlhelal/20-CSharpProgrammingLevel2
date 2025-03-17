@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Linq;
 using System.Threading;
 
@@ -6,10 +7,15 @@ namespace Process_vs_Thread
 {
     internal class Program
     {
+        static void ParameterizedThread( ) 
+        {
+        }
+
+
         static void Main(string[] args)
         {
             // Create a new thread and start it
-            Thread t = new Thread(ThreadMethod1);
+            Thread t = new Thread(()=>ThreadMethod1("Method one"));
             t.Start();
 
             Thread t2 = new Thread(ThreadMethod2);
@@ -29,11 +35,11 @@ namespace Process_vs_Thread
         }
 
 
-        static void ThreadMethod1()
+        static void ThreadMethod1(String methodName)
         {
             for ( int i = 1 ; i <= 5 ; i++ )
             {
-                Console.WriteLine("Thread Method1: " + i);
+                Console.WriteLine($"{methodName}: " + i);
                 Thread.Sleep(1000);
             }
         } 
@@ -41,7 +47,7 @@ namespace Process_vs_Thread
         {
             for ( int i = 1 ; i <= 5 ; i++ )
             {
-                Console.WriteLine("Thread Method1: " + i);
+                Console.WriteLine("Thread Method2: " + i);
                 Thread.Sleep(1000);
             }
         }
