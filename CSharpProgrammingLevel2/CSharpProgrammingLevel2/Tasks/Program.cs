@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Tasks
@@ -106,6 +107,18 @@ namespace Tasks
             Console.WriteLine("Done!");
             Console.ReadKey();
 
+            // Define long-running tasks
+            Task task4 = Task.Run(() => DownloadFile("Download File 1"));
+
+            Task task5 = Task.Run(() => DownloadFile("Dowload File 2"));
+
+            // Wait for both tasks to finish
+            await Task.WhenAll(task4 , task5);
+
+            // Display execution time for each task
+            Console.WriteLine($"Task 1 and 2 completed");
+            Console.ReadKey();
+
         }
 
         static async Task PerformAsyncOperation(CallbackEventHandler callback)
@@ -134,6 +147,16 @@ namespace Tasks
 
             // Return a result
             return 42;
+        }
+
+
+        //Task.Run Example 
+
+        static void DownloadFile(string TaskName)
+        {
+            Console.WriteLine($"{TaskName}: Started!");
+            Thread.Sleep(5000); // Simulate long-running operation
+            Console.WriteLine($"{TaskName}: Completed!");
         }
     }
 }
